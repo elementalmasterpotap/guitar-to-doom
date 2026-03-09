@@ -11,6 +11,17 @@ official/
 # Моды / графика / аудио (большие бинарники)
 mods/
 
+# GZDoom бинари (качается отдельно с zdoom.org)
+gzdoom.exe
+openal32.dll
+sndfile.dll
+zmusic.dll
+soundfonts/
+
+# Релизные архивы
+*.7z
+*.zip
+
 # Скомпилированный EXE
 GuitarDoomLauncher.exe
 
