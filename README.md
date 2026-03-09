@@ -33,7 +33,7 @@ Every string maps to a key. Palm mute switches weapons. GUI launcher picks the g
 | Source | What it brings |
 |--------|---------------|
 | **GZDoom v4.14.2** *([ZDoom team](https://zdoom.org))* | Vulkan renderer, widescreen support, ZScript modding, full WAD ecosystem |
-| **IDKFAv2.wad** *(community soundfont)* | Orchestral MIDI replacement — reverb, chorus, full instrument set. 90MB of upgrade. |
+| **IDKFA Soundtrack v2** *([Andrew Hulshult](https://www.moddb.com/downloads/idkfa-soundtrack-wad-only-version))* | Metal/rock music replacement — replaces original MIDI with real recorded tracks. 90MB of pure upgrade. |
 | **NeuralUpscale2x v1.0** *(community mod)* | AI-upscaled textures at 2×. Sharper details, pixel-faithful aesthetic preserved. |
 
 ## Controls — Guitar (6 strings)
@@ -122,7 +122,7 @@ MIT — rock and roll never dies 🤘
 | Источник | Что даёт |
 |----------|---------|
 | **GZDoom v4.14.2** *([ZDoom team](https://zdoom.org))* | Vulkan рендерер, widescreen, ZScript, полная экосистема модов |
-| **IDKFAv2.wad** *(community soundfont)* | Оркестровый звук вместо стандартного MIDI — реверб, хор, 90MB настоящего апгрейда |
+| **IDKFA Soundtrack v2** *([Andrew Hulshult](https://www.moddb.com/downloads/idkfa-soundtrack-wad-only-version))* | Метал/рок вместо стандартного MIDI — реальные записанные треки, 90MB живой музыки |
 | **NeuralUpscale2x v1.0** *(community mod)* | Нейросетевой апскейл текстур 2× — чётче, но пиксельность сохранена |
 
 ## Управление — Электрогитара (6 струн)
