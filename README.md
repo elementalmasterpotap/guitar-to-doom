@@ -62,7 +62,9 @@ Every string maps to a key. Palm mute switches weapons. GUI launcher picks the g
 | **Palm mute** | — | ] | Next weapon |
 | ESC | — | — | **PANIC STOP** |
 
-## Bundled games
+## Supported games
+WADs are **not included** — you need to own the games. Place your IWADs in `iwads/`.
+
 | BAT file | Game |
 |----------|------|
 | `Play The Ultimate DOOM (Vulkan).bat` | Doom 1 (4 episodes) |
@@ -153,7 +155,9 @@ MIT — rock and roll never dies 🤘
 | **Palm mute** | — | ] | Следующее оружие |
 | ESC | — | — | **ПАНИКА / СТОП** |
 
-## Игры в комплекте
+## Поддерживаемые игры
+WAD'ы **не включены** — нужно владеть играми. Положи свои IWAD в `iwads/`.
+
 | BAT-файл | Игра |
 |----------|------|
 | `Play The Ultimate DOOM (Vulkan).bat` | Doom 1 (4 эпизода) |
