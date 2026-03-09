@@ -1,0 +1,45 @@
+# WAD-файлы (игровые данные — не распространяются)
+iwads/
+*.wad
+*.WAD
+*.pk3
+*.PK3
+
+# Официальные дополнения (платные)
+official/
+
+# Моды / графика / аудио (большие бинарники)
+mods/
+
+# Скомпилированный EXE
+GuitarDoomLauncher.exe
+
+# PyInstaller временные файлы
+dist/
+build_tmp/
+*.spec
+
+# Python кэш
+__pycache__/
+*.pyc
+*.pyo
+
+# GZDoom конфиги (личные настройки)
+*.ini
+*.cfg
+gzdoom-*.ini
+
+# Логи
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Claude локальное
+.claude/settings.local.json
